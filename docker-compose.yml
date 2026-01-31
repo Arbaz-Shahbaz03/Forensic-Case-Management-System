@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  web:
+    build: .
+    container_name: php_oracle_app
+    ports:
+      - "9090:80"
+    volumes:
+      - ./www:/var/www/html

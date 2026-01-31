@@ -1,0 +1,5 @@
+body { background:#111; color:white; font-family:Arial }
+h1,h2{ color:#0ff }
+input,textarea{ width:90%; margin:5px; padding:8px; }
+button{ padding:10px; background:#0ff; border:none; cursor:pointer }
+.case-box{ border:1px solid #0ff; padding:10px; margin:10px }
